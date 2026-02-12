@@ -1,4 +1,4 @@
-import { FingerprintPattern } from "lucide-react";
+
 import { Lock } from "lucide-react";
 import { PawPrint } from 'lucide-react';
 // import { Activity } from "lucide-react";
